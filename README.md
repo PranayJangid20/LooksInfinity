@@ -7,3 +7,6 @@ A Looks Infinity Ecommerce project.
 - I used Firebase as the backend, which allowed me to manage authentication and store data.
 - This project shows my early steps in my flutter development journey.
 - I will like to publish it so other flutter enthusiasts can know that how to start their journey.
+
+Note - This project is slightly differ from play store app as this code have some changes and bug fixes.
+Playstore link - https://play.google.com/store/apps/details?id=com.arohacores.lookinfinity
