@@ -1,0 +1,178 @@
+{
+  "store" : {
+    "data" : {
+      "product_list" : {
+        "mentsblk001c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/7/22/8aa93d6d-77a2-40ff-8f65-36e6109188601595367882266-1.jpg",
+          "pName" : "Brown Shirt",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "mentsblk002c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11896436/2020/7/22/142128e9-95cd-4471-af6f-e60e24cc03f51595397469617-Sztori-Men-Blue-Solid-Polo-Collar-T-shirt-9731595397467809-1.jpg",
+          "pName" : "Saztori",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "mentsblk003c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10424688/2020/3/17/c36a3f57-f82e-4b6e-a002-c996629cd19b1584442497306-Roadster-Men-Tshirts-9251584442495498-1.jpg",
+          "pName" : "Black Shirt",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "mentsblk004c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11896436/2020/7/22/142128e9-95cd-4471-af6f-e60e24cc03f51595397469617-Sztori-Men-Blue-Solid-Polo-Collar-T-shirt-9731595397467809-1.jpg",
+          "pName" : "Patternz",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "mentsblk005c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/7/22/8aa93d6d-77a2-40ff-8f65-36e6109188601595367882266-1.jpg",
+          "pName" : "Levis",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "mentsblk006c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9768159/2019/5/31/fd6586bd-676e-42c2-94ed-f9920f160c4b1559306224047-WROGN-Men-Tshirts-2211559306222588-1.jpg",
+          "pName" : "Brown Shirt",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "mentsblk007c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/7/22/8aa93d6d-77a2-40ff-8f65-36e6109188601595367882266-1.jpg",
+          "pName" : "Brown Silk",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "mentsblk008c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11896436/2020/7/22/142128e9-95cd-4471-af6f-e60e24cc03f51595397469617-Sztori-Men-Blue-Solid-Polo-Collar-T-shirt-9731595397467809-1.jpg",
+          "pName" : "Black & Grey",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "mentsblk009c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/7/22/8aa93d6d-77a2-40ff-8f65-36e6109188601595367882266-1.jpg",
+          "pName" : "Raddish",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "mentsblk010c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11896436/2020/7/22/142128e9-95cd-4471-af6f-e60e24cc03f51595397469617-Sztori-Men-Blue-Solid-Polo-Collar-T-shirt-9731595397467809-1.jpg",
+          "pName" : "Mac Gray",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "wmntsblk001c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/8969717/2019/3/28/e448c9a1-3a0f-40e7-b267-1bf44a44ba501553778956208-Indo-Era-Beige-Solid-Straight-Kurta-Sets-9801553778954623-1.jpg",
+          "pName" : "Blue Pattered",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "wmntsblk002c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11754856/2020/7/14/d320be85-df70-424f-9c95-baf5a67777081594701869969-Sangria-Women-Kurtas-1751594701867603-1.jpg",
+          "pName" : "Royal Blue",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "wmntsblk003c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/8969717/2019/3/28/e448c9a1-3a0f-40e7-b267-1bf44a44ba501553778956208-Indo-Era-Beige-Solid-Straight-Kurta-Sets-9801553778954623-1.jpg",
+          "pName" : "Black & Red",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "wmntsblk004c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10942370/2019/11/19/3cfdd561-ad23-4ee4-8187-de635252a15e1574150056042-Anubhutee-Women-Navy-Blue--Off-White-Yoke-Design-Kurta-with--1.jpg",
+          "pName" : "Orange Emb",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "wmntsblk005c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/8969717/2019/3/28/e448c9a1-3a0f-40e7-b267-1bf44a44ba501553778956208-Indo-Era-Beige-Solid-Straight-Kurta-Sets-9801553778954623-1.jpg",
+          "pName" : "Anouk",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "wmntsblk006c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/8969717/2019/3/28/e448c9a1-3a0f-40e7-b267-1bf44a44ba501553778956208-Indo-Era-Beige-Solid-Straight-Kurta-Sets-9801553778954623-1.jpg",
+          "pName" : "Indo Era",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "wmntsblk007c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/8969717/2019/3/28/e448c9a1-3a0f-40e7-b267-1bf44a44ba501553778956208-Indo-Era-Beige-Solid-Straight-Kurta-Sets-9801553778954623-1.jpg",
+          "pName" : "Brown kurti",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "wmntsblk008c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11531244/2020/2/27/725581af-bd5b-43dc-96b4-bae6b64fcedf1582784009868-Anubhutee-Women-Kurta-Sets-1831582784007879-1.jpg",
+          "pName" : "Dotted White",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "wmntsblk009c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/8969717/2019/3/28/e448c9a1-3a0f-40e7-b267-1bf44a44ba501553778956208-Indo-Era-Beige-Solid-Straight-Kurta-Sets-9801553778954623-1.jpg",
+          "pName" : "Brown Flower",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        },
+        "wmntsblk010c" : {
+          "pImg" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12133364/2020/8/13/d73de550-e3de-4b7f-84e2-064839aba01a1597314471849-Libas-Women-Orange--Off-White-Embroidered-Straight-Kurta-320-1.jpg",
+          "pName" : "Golden Threded",
+          "pRate" : 399,
+          "pSize" : "40\\42\\46\\48",
+          "pTag" : "men\\black\\half sleves\\fit\\casual\\tshirt"
+        }
+      }
+    },
+    "home" : {
+      "h1" : {
+        "img": "img",
+        "onclick": null
+      },
+      "h2" : {
+        "img": "img",
+        "onclick": null
+      },
+      "h3" : {
+        "img": "img",
+        "onclick": null
+      },
+      "h4" : {
+        "img": "img",
+        "onclick": null
+      },
+      "h5" : {
+        "img": "img",
+        "onclick": null
+      },
+      "h6" : {
+        "img": "img",
+        "onclick": null
+      },
+      "h7" : {
+        "img": "img",
+        "onclick": null
+      }
+    }
+  }
+}
